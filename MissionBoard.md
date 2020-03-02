@@ -8,12 +8,11 @@
 ## 任务列表：
 
 ### 注册github账号，Star项目[维之初](https://github.com/World-Genius/Singularity)【群】（5分）
-  Done:郭新强
-
+  `Done:`郭新强
 ### Star后的伙伴会接到Team邀请，会在注册邮箱提示，确认进入【群】（5分）
-  Done: 郭新强
+  `Done:` 郭新强
 ### 在加入团队之后把自己的名字写在[项目简介文件](https://github.com/World-Genius/Singularity/blob/master/README.md)结尾Developer之后，名字之间用、号分隔【群】（5分）
-  Done: 郭新强
+  `Done:` 郭新强
 ### 根据项目描述设计维之初logo，体现简洁明了科技感【单】（15分）
 
 ### 认证学僧选购服务器，配置系统（linux、windows）不限，将通用账号公布于群【单】（15分）
