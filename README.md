@@ -49,4 +49,4 @@
 
 </center>
 
-### Developer:马钧、郭新强、谢红伟
+### Developer:马钧、郭新强、谢红伟、李佳佳
