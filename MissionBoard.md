@@ -14,7 +14,7 @@
 ### 在加入团队之后把自己的名字写在[项目简介文件](https://github.com/World-Genius/Singularity/blob/master/README.md)结尾Developer之后，名字之间用、号分隔【群】（5分）
   `Done:` 郭新强、谢红伟、李佳佳
 ### 根据项目描述设计维之初logo，体现简洁明了科技感【单】（15分）
-
+For李佳佳
 ### 认证学僧选购服务器，配置系统（linux、windows）不限，将通用账号公布于群【单】（15分）
 
 ### 根据beego框架官网教程搭建第一个网页，显示Genius+你的名字【群】（10分）
