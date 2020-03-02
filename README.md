@@ -50,3 +50,5 @@
 </center>
 
 ### Developer:马钧
+
+### Developer:郭新强
