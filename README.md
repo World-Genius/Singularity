@@ -48,9 +48,10 @@
 - [iris·Go语言mvc框架](https://github.com/kataras/iris)
 - [gorm·Go语言orm框架](http://gorm.io/)
 - [resty·GoEasyHttpClient模块](https://github.com/go-resty/resty)
-- [cron·Go计划任务模块]
+- [cron·Go计划任务模块](https://github.com/robfig/cron)
 - [goquery·GolangHtml解析模块](https://github.com/PuerkitoBio/goquery)
 #### 前端语言及框架:
+- [js&html](https://www.runoob.com/js/js-tutorial.html)
 - [Vue](https://cn.vuejs.org/)
 - [nuxt.js·基于Vue的服务端渲染框架](https://cn.vuejs.org/)
 - [element-UI·饿了么的基于vue.js的开源前端库](https://element.eleme.cn)
