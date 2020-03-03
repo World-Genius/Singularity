@@ -40,10 +40,13 @@
     单：独自完成的任务，先抢先得，搞完得分数独享
     群：每个都可以去做的任务，每个人完成后都可以得分
     
-### ⑥《维之初》的呈现载体暂定为网页，前端框架考虑vue，后端框架考虑beego，这些教学资源大家可先挑感兴趣的练起来，有疑问的可以在群里提问或者私信，礼拜1可能就会放出任务及教程，大家加油：）
+### ⑥《维之初》的呈现载体暂定为网页，前端框架考虑vue，后端考虑Go，这些教学资源大家可先挑感兴趣的练起来，有疑问的可以在群里提问或者私信，礼拜1可能就会放出任务及教程，大家加油：）
 
 ### 教程资源：
-[后端Beego](https://beego.me/docs/intro/)
+#### 后端语言及框架:
+- [go基础系列丛书](https://mlog.club/topic/40)
+- [Go语言mvc框架](https://github.com/kataras/iris)
+- [Go Easy httpclit模块](https://github.com/go-resty/resty)
 
 [前端Vue](https://cn.vuejs.org/)
 
