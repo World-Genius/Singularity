@@ -45,10 +45,16 @@
 ### 教程资源：
 #### 后端语言及框架:
 - [go基础系列丛书](https://mlog.club/topic/40)
-- [Go语言mvc框架](https://github.com/kataras/iris)
-- [Go Easy httpclit模块](https://github.com/go-resty/resty)
-
-[前端Vue](https://cn.vuejs.org/)
+- [iris·Go语言mvc框架](https://github.com/kataras/iris)
+- [gorm·Go语言orm框架](http://gorm.io/)
+- [resty·GoEasyHttpClient模块](https://github.com/go-resty/resty)
+- [cron·Go计划任务模块]
+- [goquery·GolangHtml解析模块](https://github.com/PuerkitoBio/goquery)
+#### 前端语言及框架:
+- [Vue](https://cn.vuejs.org/)
+- [nuxt.js·基于Vue的服务端渲染框架](https://cn.vuejs.org/)
+- [element-UI·饿了么的基于vue.js的开源前端库](https://element.eleme.cn)
+- [vditor·Markdown 编辑器](https://github.com/b3log/vditor) 
 
 </center>
 
