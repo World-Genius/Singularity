@@ -69,7 +69,7 @@
 
 ### [前端]修改回帖内容栏为从紧跟作者内容之下到所有回帖之下 【单】(9分) for 郭新强
 
-### [运维]总结[这个](https://www.xbeibeix.com/bilibili3/)和[这个](http://blog.fandong.me/2017/08/25/Markdown-Advance/)文档中的技巧，发表到我们的论坛中，教导大家如何在我们的站点以正确的姿势发B站或其他外链的视频。【单】(6分)
+### [运维]总结[这个](https://www.xbeibeix.com/bilibili3/)和[这个](http://blog.fandong.me/2017/08/25/Markdown-Advance/)文档中的技巧，发表到我们的论坛中，教导大家如何在我们的站点以正确的姿势发B站或其他外链的视频。【单】(6分)For 王梦明
 
 ### [运维] 总结[这个](https://www.dazhuanlan.com/2020/02/19/5e4cc06d5f8ca/https://www.dazhuanlan.com/2020/02/19/5e4cc06d5f8ca/)和[这个](http://blog.fandong.me/2017/08/25/Markdown-Advance/)文档中的技巧，将如何正确的姿势插入网易云或其他外链音乐的方法发到我们的论坛中。【单】(6分)
  
