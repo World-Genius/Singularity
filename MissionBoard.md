@@ -71,7 +71,7 @@
 
 ### [运维]总结[这个](https://www.xbeibeix.com/bilibili3/)和[这个](http://blog.fandong.me/2017/08/25/Markdown-Advance/)文档中的技巧，发表到我们的论坛中，教导大家如何在我们的站点以正确的姿势发B站或其他外链的视频。【单】(6分)
 
-### [运维] 总结[这个] （https://www.dazhuanlan.com/2020/02/19/5e4cc06d5f8ca/https://www.dazhuanlan.com/2020/02/19/5e4cc06d5f8ca/）和[这个] （http://blog.fandong.me/2017/08/25/Markdown-Advance/）文档中的技巧，将如何正确的姿势插入网易云或其他外链音乐的方法发到我们的论坛中。【单】 (6分)
+### [运维] 总结[这个] （https://www.dazhuanlan.com/2020/02/19/5e4cc06d5f8ca/https://www.dazhuanlan.com/2020/02/19/5e4cc06d5f8ca/）和[这个] （http://blog.fandong.me/2017/08/25/Markdown-Advance/）文档中的技巧，将如何正确的姿势插入网易云或其他外链音乐的方法发到我们的论坛中。【单】 （6分）
  
 
 ### [运维] 用后台管理的权限查看我们已经发布的例子，将如何正确的姿势插入一些喜欢的小游戏的方法发到我们的论坛中。【单】（6分）for 李学豪
